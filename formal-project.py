@@ -1,7 +1,5 @@
 import time, string
 
-# hocam bizim metinde bosluk ve noktalama isaretleri oldugundan bunlari da alfabeye ekledim.
-# eklemedigim durumda python deictinorysinde olmayan bir keyi aradigimdan hata aliyordum
 alphabet = string.punctuation + string.digits + string.whitespace + string.ascii_lowercase
 
 
